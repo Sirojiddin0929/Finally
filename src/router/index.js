@@ -1,0 +1,6 @@
+export {footballClubsRouter} from "./football_clubs.router.js"
+export {matchFixtureRouter} from "./match_fixture.router.js"
+export {playersRouter} from "./players.router.js"
+export {teamsRouter} from "./teams.router.js"
+export {tournamentGroupsRouter} from "./tournament_groups.router.js"
+export {tournamentsRouter} from "./tournaments.router.js"

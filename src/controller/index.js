@@ -1,0 +1,6 @@
+export * from "./football_clubs.controller.js"
+export * from "./match_fixtures.controller.js"
+export * from "./players.controller.js"
+export * from "./teams.controller.js"
+export * from "./tournament_groups.controller.js"
+export * from "./tournaments.controller.js"
